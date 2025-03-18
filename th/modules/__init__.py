@@ -1,2 +1,2 @@
-from modules.cnn import CNNModel
-from modules.coatnet import coatnet_0 as CoAtNet
+from th.modules.cnn import CNNModel
+from th.modules.coatnet import coatnet_0 as coatnet
