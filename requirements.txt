@@ -1,0 +1,6 @@
+torch==2.2.0
+tensorflow==2.19.0
+scikit-learn==1.6.1
+matplotlib==3.9.4
+lion_pytorch==0.2.3
+einops==0.8.1
