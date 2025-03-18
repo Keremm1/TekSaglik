@@ -1,7 +1,12 @@
 # TekSaglik
+
+#Harici
 https://drive.google.com/drive/folders/1KwrqG2YdfT6jQJh-bKVD40e4qzKBR03w?usp=sharing
-https://transfer.saglik.gov.tr/index.php/s/xinLYEgk6Fnk7s5
 
-https://transfer.saglik.gov.tr/index.php/s/AA9JqJqxtoZbYKH
+Teknofest
+-https://transfer.saglik.gov.tr/index.php/s/xinLYEgk6Fnk7s5
+-https://transfer.saglik.gov.tr/index.php/s/AA9JqJqxtoZbYKH
+-https://transfer.saglik.gov.tr/index.php/s/PCccB6j42bBbQ6q
 
-https://transfer.saglik.gov.tr/index.php/s/PCccB6j42bBbQ6q
+#CoAtNet Paper
+https://arxiv.org/abs/2106.04803
