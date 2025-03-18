@@ -11,8 +11,8 @@ https://drive.google.com/drive/folders/1KwrqG2YdfT6jQJh-bKVD40e4qzKBR03w?usp=sha
 *CoAtNet Paper* - 
 https://arxiv.org/abs/2106.04803
 
-*Lion Paper* - 
+*Lion Optimizer Paper* - 
 https://arxiv.org/abs/2302.06675
 
-*Lion - Pytorch - Github* - 
+*Lion-Pytorch Github* - 
 https://github.com/lucidrains/lion-pytorch
